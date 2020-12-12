@@ -3,6 +3,8 @@
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white&color=red"/>   <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white"/>   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=plastic&logo=androidstudio&logoColor=white&color=blue"/>   <img src="https://img.shields.io/badge/InteliJ-000000?style=plastic&logo=InteliJ&logoColor=white&color=yellow"/>
 
 <!--
+-> 배지 https://shields.io/
+-> 아이콘 https://simpleicons.org/
 **ethanchaee/ethanchaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![header](https://capsule-render.vercel.app/api?type=slice&color=A3DCBE&height=300&section=header&text=EthanChae&fontSize=90)
 Here are some ideas to get you started:
