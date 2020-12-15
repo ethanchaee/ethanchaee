@@ -1,8 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Ethan 👋
 
-<img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white&color=red"/>   <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white"/>   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=plastic&logo=androidstudio&logoColor=white&color=blue"/>   <img src="https://img.shields.io/badge/InteliJ-000000?style=plastic&logo=InteliJ&logoColor=white&color=yellow"/>
+📱  I am an Android developer and I always try to grow every day by day.  
+📊  Now, I am developing an auto trading application for cryptocurrency. [download](https://play.google.com/store/apps/details?id=com.sixmultiverse.heartnumber)
+ 
+✍🏻  [Brunch](https://brunch.co.kr/@ethanchae)
 
-https://brunch.co.kr/@ethanchae
+<img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white&color=red"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white"/>   
 
 <!--
 -> 배지 https://shields.io/
