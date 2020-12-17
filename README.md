@@ -7,6 +7,8 @@
 
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white&color=red"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white"/>   
 
+[I want to be a developer like...](https://brunch.co.kr/@ethanchae/42)
+
 <!--
 -> 배지 https://shields.io/
 -> 아이콘 https://simpleicons.org/
