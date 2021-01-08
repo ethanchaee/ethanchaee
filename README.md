@@ -9,7 +9,7 @@
 
 
 👉🏻 [Portfolio](https://www.notion.so/736e9f95b3784faaa78ab31400f2b259)
-[I want to be a developer like...](https://brunch.co.kr/@ethanchae/42)
+
 
 
 
@@ -19,6 +19,7 @@
 **ethanchaee/ethanchaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![header](https://capsule-render.vercel.app/api?type=slice&color=A3DCBE&height=300&section=header&text=EthanChae&fontSize=90)
 Here are some ideas to get you started:
+[I want to be a developer like...](https://brunch.co.kr/@ethanchae/42)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
