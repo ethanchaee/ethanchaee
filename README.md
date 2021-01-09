@@ -8,7 +8,6 @@
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white&color=red"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white"/>   
 
 
-👉🏻 [Portfolio](https://www.notion.so/736e9f95b3784faaa78ab31400f2b259)
 
 
 
@@ -20,6 +19,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=A3DCBE&height=300&section=header&text=EthanChae&fontSize=90)
 Here are some ideas to get you started:
 [I want to be a developer like...](https://brunch.co.kr/@ethanchae/42)
+👉🏻 [Portfolio](https://www.notion.so/736e9f95b3784faaa78ab31400f2b259)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
